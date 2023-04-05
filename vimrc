@@ -57,7 +57,16 @@ let g:netrw_winsize = 20 " по-малък прозорец
 
 nnoremap gn :Lex<cr>
 
-call pathogen#infect()
+" call pathogen#infect()
+
+call plug#begin()
+Plug 'tpope/vim-surround'
+Plug 'AndrewRadev/undoquit.vim'
+" Plug 'AndrewRadev/andrews_nerdtree.vim'
+" Plug 'AndrewRadev/nerdtree'
+" Plug 'kana/vim-smartword'
+" Plug 'simnalamburt/vim-mundo'
+call plug#end()
 
 inoremap <c-p> <c-r>"
 cnoremap <c-p> <c-r>"
