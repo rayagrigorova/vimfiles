@@ -2,59 +2,47 @@ filetype plugin on
 filetype indent on
 syntax on
 
-set guifont=Consolas:h18:cANSI
-set t_Co=256
-set termguicolors
-
 nnoremap g/ :vimgrep / <c-r>// * .*<cr>
 
-set backspace=indent,eol,start
-set history=1000
-set ruler      
-set showcmd   
-
-set wildmenu 
-
-set wildmode=list:longest,full
-
-" set expandtab
-" set shiftwidth=2
-" set softtabstop=2
-" set tabstop=8
-
-set nolist
-
-set ttimeout 
-set ttimeoutlen=50
-set display=truncate
-set scrolloff=0
-set incsearch
-set nrformats-=octal
-set guioptions=
-
-set mouse=a
-
-set scrolloff=0
-set number
-set splitbelow
-set splitright
-
 " :digraphs 
-" <c-k> vv
 " <c-k> VV
 " <c-k> hh
+" <c-k> vv
 
-set fillchars=stl:─,stlnc:─,vert:│
-
+set backspace=indent,eol,start
 set clipboard=unnamed,unnamedplus
-
+set display=truncate
+set expandtab
+set fillchars=stl:─,stlnc:─,vert:│
+set guifont=Consolas:h18:cANSI
+set guioptions=
+set history=1000
+set incsearch
+set mouse=a
 set nobackup 
-set nowritebackup
+set nolist
 set noswapfile
+set nowritebackup
+set nrformats-=octal
+set number
+set ruler      
+set scrolloff=0
+set scrolloff=0
+set shiftwidth=2
+set showcmd   
+set softtabstop=2
+set splitbelow
+set splitright
+set t_Co=256
+set tabstop=8
+set termguicolors
+set ttimeout 
+set ttimeoutlen=50
+set wildmenu 
+set wildmode=list:longest,full
 
 nnoremap zj mayyp`aj
 nnoremap zk mayyP`ak
-
 
 " g: -- global variable
 " l: -- local variable
