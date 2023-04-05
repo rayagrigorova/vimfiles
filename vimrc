@@ -2,8 +2,6 @@ filetype plugin on
 filetype indent on
 syntax on
 
-" Some changes
-
 nnoremap g/ :vimgrep / <c-r>// * .*<cr>
 
 " :digraphs 
