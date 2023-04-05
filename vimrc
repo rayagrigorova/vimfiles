@@ -39,7 +39,6 @@ set number
 set splitbelow
 set splitright
 
-
 " :digraphs 
 " <c-k> vv
 " <c-k> VV
