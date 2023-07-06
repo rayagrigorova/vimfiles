@@ -1,0 +1,2010 @@
+
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+E521: Number required after =: verbose = 
+
+
+"verbose.txt" [New]
+
+
+E488: Trailing characters: [!]
+
+"[Plugins]" [Not edited] --No lines in buffer--
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system[30]..function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system:
+line   24:
+E282: Cannot read from "C:\Users\Raya\AppData\Local\Temp\VJB7573.tmp"
+
+"[Plugins]" [Not edited] --No lines in buffer--
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+
+
+"[Plugins]" [Not edited] --No lines in buffer--
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system[30]..function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system:
+line   24:
+E282: Cannot read from "C:\Users\Raya\AppData\Local\Temp\VJB3E35.tmp"
+
+E488: Trailing characters: [!]
+
+"[Plugins]" [Not edited] --No lines in buffer--
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[1]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system[30]..function <SNR>9_clean[13]..<SNR>9_git_validate[36]..<SNR>9_system:
+line   24:
+E282: Cannot read from "C:\Users\Raya\AppData\Local\Temp\VJB9659.tmp"
+
+-- INSERT --
+
+1 change; before #9  5 seconds ago
+1 change; before #9  5 seconds ago
+
+"vimrc" 
+"vimrc" 126L, 2386B
+
+"hhs" [New]
+-- INSERT --
+
+
+E37: No write since last change (add ! to override)
+
+
+"vimrc" 
+"vimrc" 126L, 2388B written
+"vimrc" 126L, 2388B written
+
+"vimrc" 
+"vimrc" 126L, 2388B-- INSERT --
+-- INSERT --
+
+
+
+"vimrc" 
+"vimrc" 127L, 2402B written
+"vimrc" 127L, 2402B written
+
+
+
+
+/- # 
+
+?- # 
+
+/- # 
+
+?- # 
+recording @q
+/- # 
+recording @q
+
+?\<Neovim\> 
+
+search hit TOP, continuing at BOTTOM
+search hit TOP, continuing at BOTTOM-- INSERT --
+
+28 fewer lines; before #3  4 seconds ago
+28 fewer lines; before #3  4 seconds ago
+1 more line; before #2  16 seconds ago
+1 more line; before #2  16 seconds ago
+/- # 
+
+/- # 
+
+?- # 
+
+?- # 
+recording @q
+/- # 
+recording @q
+
+/- # 
+
+/- # 
+
+/- # 
+
+search hit BOTTOM, continuing at TOP
+search hit BOTTOM, continuing at TOP
+/- # 
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: - #
+12 more lines
+12 more lines
+12 fewer lines; before #9  17 seconds ago
+12 fewer lines; before #9  17 seconds ago
+1 line less; before #8  23 seconds ago
+1 line less; before #8  23 seconds ago
+1 line less; before #7  23 seconds ago
+1 line less; before #7  23 seconds ago
+1 line less; before #6  23 seconds ago
+1 line less; before #6  23 seconds ago
+4 more lines; before #5  27 seconds ago
+4 more lines; before #5  27 seconds ago
+1 more line; before #4  47 seconds ago
+1 more line; before #4  47 seconds ago
+8 fewer lines; before #1  00:33:20
+8 fewer lines; before #1  00:33:20
+8 more lines; after #1  00:33:20
+8 more lines; after #1  00:33:20
+
+8 substitutions on 8 lines
+8 substitutions on 8 lines
+
+--No lines in buffer--
+8 more lines
+8 more lines
+1 more line; before #13  00:39:20
+1 more line; before #13  00:39:20
+9 fewer lines; before #12  00:39:16
+9 fewer lines; before #12  00:39:16
+9 more lines; after #12  00:39:16
+9 more lines; after #12  00:39:16
+
+--No lines in buffer--
+9 more lines
+9 more lines-- VISUAL ---- VISUAL ---- VISUAL --
+
+--No lines in buffer--
+10 more lines
+10 more lines
+11 fewer lines; before #17  6 seconds ago
+11 fewer lines; before #17  6 seconds ago
+
+Type Name Content
+  l  ""   ^J^J-     Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J-  
+  l  "0   std::istream& StringPiеce::operator <<(std::istream& is) {^J^Iunsigned dataLen = sp.getLength();^J^J^Istatic 
+  l  "1   ^J^J-     Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J-  
+  l  "2   ^J-     Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J-    
+  l  "3   ^J
+  l  "4   -     Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J-     -
+  l  "5   - # LearnVim -- prefix line with number: https://twitter.com/learnvim/status/1626261623580274688^J
+  l  "6   - # Neovim in Xcode:                     https://www.reddit.com/r/neovim/comments/11a7702/shadowvim_embeds_ne
+  l  "7   - # Wrapfiller for diffs:                https://github.com/rickhowe/wrapfiller^J
+  l  "8   - # Neovim -- ultimate autopair:         https://github.com/altermo/ultimate-autopair.nvim^J
+  l  "9   - # Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J
+  l  "a   - # LearnVim -- prefix line with number: https://twitter.com/learnvim/status/1626261623580274688^J- # Vim-alt
+  l  "b   ^Iunsigned dataLen = sp.getLength();^J^J^Istatic char buff[MAX_LEN];^J^Iis >> buff;^J^J^Iunsigned buffLen = m
+  c  "c   three^J
+  c  "q   "Addn
+  c  "u   ^[^[
+  c  "-    
+  l  "*   ^J^J-     Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J-  
+  c  ".   
+  c  ":   %d
+  c  "#   vimrc
+  c  "/   - #
+7 more lines
+7 more lines
+
+5 matches on 5 lines
+5 matches on 5 lines
+1 line less; before #21  2 seconds ago
+1 line less; before #21  2 seconds ago
+1 line less; before #20  2 seconds ago
+1 line less; before #20  2 seconds ago
+1 line less; before #19  2 seconds ago
+1 line less; before #19  2 seconds ago
+12 more lines
+12 more lines
+12 fewer lines; before #26  16 seconds ago
+12 fewer lines; before #26  16 seconds ago
+1 line less; before #25  20 seconds ago
+1 line less; before #25  20 seconds ago
+1 line less; before #24  20 seconds ago
+1 line less; before #24  20 seconds ago
+1 line less; before #23  20 seconds ago
+1 line less; before #23  20 seconds ago
+1 line less; before #22  21 seconds ago
+1 line less; before #22  21 seconds ago
+8 fewer lines; before #18  70 seconds ago
+8 fewer lines; before #18  70 seconds ago
+8 more lines; after #18  71 seconds ago
+8 more lines; after #18  71 seconds ago
+/- # 
+
+?- # 
+
+/- # 
+
+?- # 
+
+/- # 
+
+/- # 
+
+/- # 
+
+/- # 
+
+/- # 
+
+search hit BOTTOM, continuing at TOP
+search hit BOTTOM, continuing at TOP
+/- # 
+
+/- # 
+
+/- # 
+
+search hit BOTTOM, continuing at TOP
+search hit BOTTOM, continuing at TOPrecording @q
+/- # 
+
+search hit BOTTOM, continuing at TOPrecording @q
+search hit BOTTOM, continuing at TOPrecording @q
+
+?- # 
+
+search hit TOP, continuing at BOTTOM
+search hit TOP, continuing at BOTTOMrecording @q
+/- # 
+
+search hit BOTTOM, continuing at TOPrecording @q
+search hit BOTTOM, continuing at TOPrecording @q
+
+/- # 
+
+/- # 
+
+/- # 
+
+/- # 
+
+search hit BOTTOM, continuing at TOP
+search hit BOTTOM, continuing at TOP
+18 more lines
+18 more lines
+18 fewer lines; before #32  22 seconds ago
+18 fewer lines; before #32  22 seconds ago
+1 line less; before #31  25 seconds ago
+1 line less; before #31  25 seconds ago
+1 line less; before #30  26 seconds ago
+1 line less; before #30  26 seconds ago
+1 line less; before #29  26 seconds ago
+1 line less; before #29  26 seconds ago
+4 more lines; before #28  30 seconds ago
+4 more lines; before #28  30 seconds ago
+1 more line; before #27  45 seconds ago
+1 more line; before #27  45 seconds ago
+8 fewer lines; before #18  00:42:04
+8 fewer lines; before #18  00:42:04
+8 more lines; after #18  00:42:04
+8 more lines; after #18  00:42:04
+/- # 
+
+1 more line; before #33  40 seconds ago
+1 more line; before #33  40 seconds ago-- SELECT BLOCK --
+1 change; before #34  2 seconds ago
+1 change; before #34  2 seconds ago
+
+5 fewer lines
+5 fewer lines
+24 more lines
+24 more lines
+24 fewer lines; before #40  6 seconds ago
+24 fewer lines; before #40  6 seconds ago
+
+1 more line; before #39  38 seconds ago
+1 more line; before #39  38 seconds ago
+2 changes; before #38  41 seconds ago
+2 changes; before #38  41 seconds ago
+
+E486: Pattern not found: \- #
+
+--No lines in buffer--
+
+Type Name Content
+  l  ""   ^J^J- Neovim -- import cost:                 https://github.com/yardnsm/vim-import-cost/^J- Replace line in c
+  l  "0   std::istream& StringPiеce::operator <<(std::istream& is) {^J^Iunsigned dataLen = sp.getLength();^J^J^Istatic 
+  l  "1   ^J^J- Neovim -- import cost:                 https://github.com/yardnsm/vim-import-cost/^J- Replace line in c
+  l  "2   -^J
+  l  "3   - # Neovim in Xcode:                     https://www.reddit.com/r/neovim/comments/11a7702/shadowvim_embeds_ne
+  l  "4   - # Wrapfiller for diffs:                https://github.com/rickhowe/wrapfiller^J
+  l  "5   - # LearnVim -- prefix line with number: https://twitter.com/learnvim/status/1626261623580274688^J
+  l  "6   - # Neovim -- ultimate autopair:         https://github.com/altermo/ultimate-autopair.nvim^J
+  l  "7   - # Vim-altr by Kana:                    https://github.com/kana/vim-altr/blob/master/doc/altr.txt^J
+  l  "8   - # Neovim -- ultimate autopair:         https://github.com/altermo/ultimate-autopair.nvim^J
+  l  "9   - # LearnVim -- prefix line with number: https://twitter.com/learnvim/status/1626261623580274688^J
+  c  "a   - # LearnVim -- prefix line with number: https://twitter.com/learnvim/status/1626261623580274688^J- # Vim-alt
+  l  "b   ^Iunsigned dataLen = sp.getLength();^J^J^Istatic char buff[MAX_LEN];^J^Iis >> buff;^J^J^Iunsigned buffLen = m
+  c  "c   three^J
+  c  "q   n"Add
+  c  "u   ^[^[
+  b  "-   -
+  l  "*   ^J^J- Neovim -- import cost:                 https://github.com/yardnsm/vim-import-cost/^J- Replace line in c
+  c  ".   
+  c  ":   %d
+  c  "#   vimrc
+  c  "/   \- #
+
+7 more lines
+7 more lines
+
+5 fewer lines
+5 fewer lines
+6 more lines
+6 more lines-- VISUAL LINE --
+
+
+Entering Ex mode.  Type "visual" to go to Normal mode.
+:^[visual
+-- VISUAL BLOCK --
+3 lines <ed 1 time
+3 lines <ed 1 time
+3 changes; before #53  3 seconds ago
+3 changes; before #53  3 seconds ago-- VISUAL ---- VISUAL LINE ---- VISUAL ---- VISUAL BLOCK --
+3 lines <ed 1 time
+3 lines <ed 1 time-- VISUAL BLOCK --
+3 lines <ed 1 time
+3 lines <ed 1 time
+3 changes; before #56  9 seconds ago
+3 changes; before #56  9 seconds ago
+3 changes; before #55  24 seconds ago
+3 changes; before #55  24 seconds ago
+1 change; before #54  56 seconds ago
+1 change; before #54  56 seconds ago
+1 change; before #57  2 seconds ago
+1 change; before #57  2 seconds ago
+
+
+/set 
+
+
+"vimrc" 
+"vimrc" 128L, 2422B written
+"vimrc" 128L, 2422B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   68:
+E518: Unknown option: S
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   68:
+E518: Unknown option: S
+
+"vimrc" 
+"vimrc" 128L, 2420B written
+"vimrc" 128L, 2420B written
+
+
+
+
+
+
+"vimrc" 
+"vimrc" 128L, 2420B written
+"vimrc" 128L, 2420B written
+
+
+
+
+/set                                                                                      
+
+/set                                                                               [35/35]
+/set                                                                               [35/35]-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+
+
+"vimrc" 
+"vimrc" 131L, 2461B written
+"vimrc" 131L, 2461B written
+
+"vimrc" 
+"vimrc" 131L, 2461B written
+"vimrc" 131L, 2461B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   70:
+E518: Unknown option: .vimundo
+
+"vimrc" 
+"vimrc" 131L, 2459B written
+"vimrc" 131L, 2459B written
+
+
+
+
+
+
+-- INSERT --
+-- INSERT --
+
+
+"vimrc" 
+"vimrc" 133L, 2470B written
+
+"vimrc" 
+"vimrc" 131L, 2463B written
+"vimrc" 131L, 2463B written-- INSERT --
+
+
+"vimrc" 
+"vimrc" 134L, 2478B written-- INSERT --
+
+
+"vimrc" 
+"vimrc" 134L, 2485B written
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   99:
+E492: Not an editor command: Plugin 'flazz/vim-colorschemes'
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   99:
+E492: Not an editor command: Plugin 'flazz/vim-colorschemes'
+
+"vimrc" 
+"vimrc" 133L, 2529B written
+"vimrc" 133L, 2529B written
+
+"[Plugins]" [Not edited] --No lines in buffer--
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+Error detected while processing function <SNR>9_install[1]..<SNR>9_update_impl[53]..<SNR>9_prepare:
+line   31:
+E31: No such mapping
+
+
+
+E185: Cannot find color scheme 'wombat\'
+"ejeje" [New]-- INSERT --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- INSERT --
+
+1 change; before #52  2 seconds ago
+1 change; before #52  2 seconds ago
+
+
+1 line less; before #60  1 second ago
+1 line less; before #60  1 second ago
+1 line less; before #59  1 second ago
+1 line less; before #59  1 second ago
+
+"vimrc" 
+"vimrc" 136L, 2598B written
+"vimrc" 136L, 2598B written
+
+
+
+"vimrc" 
+"vimrc" 136L, 2598B written
+
+
+
+
+
+
+".vimrc" 
+".vimrc" 139L, 2844B written
+".vimrc" 139L, 2844B written
+
+".vimrc" 
+".vimrc" 139L, 2844B written
+".vimrc" 139L, 2844B written
+
+
+
+
+
+
+
+
+
+
+1 line less; before #4  1 second ago
+1 line less; before #4  1 second ago
+1 line less; before #6  1 second ago
+1 line less; before #6  1 second ago
+
+".vimrc" 
+".vimrc" 141L, 2881B written
+".vimrc" 141L, 2881B written
+
+".vimrc" 
+".vimrc" 142L, 2883B written
+".vimrc" 142L, 2883B written
+
+
+
+E518: Unknown option: scroloff=0
+
+
+
+/scroll                                                                                   
+
+/scroll                                                                              [1/2]
+/scroll                                                                              [1/2]-- INSERT --
+
+
+".vimrc" 
+".vimrc" 141L, 2881B written
+".vimrc" 141L, 2881B written
+
+
+/scro                                                                                     
+
+search hit BOTTOM, continuing at TOP
+/scro                                                                              W [1/2]
+/scro                                                                              W [1/2]
+
+".vimrc" 
+".vimrc" 141L, 2881B written
+".vimrc" 141L, 2881B written
+
+
+
+E492: Not an editor command: csplit a.cpp
+
+"a.cpp" [New]-- INSERT --
+
+
+"a.cpp" 
+"a.cpp" [New] 4L, 73B written
+"a.cpp" [New] 4L, 73B written
+
+:!gcc -Wall -o a a.cpp  >C:\Users\Raya\AppData\Local\Temp\VP59B37.tmp 2>&1
+
+(1 of 14): <ff><fe>g
+
+:!gcc -Wall -o a a.cpp  >C:\Users\Raya\AppData\Local\Temp\VP5C852.tmp 2>&1
+
+(1 of 14): <ff><fe>g
+
+Error detected while processing C:\Users\Raya\vimfiles\a.cpp:
+line    1:
+E488: Trailing characters: include <iostream>: #include <iostream>
+line    2:
+E488: Trailing characters: main(){: int main(){
+line    3:
+E492: Not an editor command:     std::cout << "Hello world\n"; 
+line    4:
+E1128: } without {: }
+
+Error detected while processing C:\Users\Raya\vimfiles\a.cpp:
+line    1:
+E488: Trailing characters: include <iostream>: #include <iostream>
+line    2:
+E488: Trailing characters: main(){: int main(){
+line    3:
+E492: Not an editor command:     std::cout << "Hello world\n"; 
+line    4:
+E1128: } without {: }
+
+Error detected while processing C:\Users\Raya\vimfiles\a.cpp:
+line    1:
+E488: Trailing characters: include <iostream>: #include <iostream>
+line    2:
+E488: Trailing characters: main(){: int main(){
+line    3:
+E492: Not an editor command:     std::cout << "Hello world\n"; 
+line    4:
+E1128: } without {: }
+
+
+".vimrc" 
+".vimrc" 141L, 2881B written
+".vimrc" 141L, 2881B written
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   \rwp          <Plug>RestoreWinPosn
+   \swp          <Plug>SaveWinPosn
+
+v  ["          *@:<C-U>exe "normal! gv"|call search('\%(^\s*".*\n\)\%(^\s*"\)\@!', "bW")<CR>
+n  ["          *@:call search('\%(^\s*".*\n\)\%(^\s*"\)\@!', "bW")<CR>
+v  []          *@m':<C-U>exe "normal! gv"|call search('^\s*end\(f\%[unction]\|def\)\>', "bW")<CR>
+n  []          *@m':call search('^\s*end\(f\%[unction]\|def\)\>', "bW")<CR>
+v  [[          *@m':<C-U>exe "normal! gv"|call search('^\s*\(fu\%[nction]\|def\)\>', "bW")<CR>
+n  [[          *@m':call search('^\s*\(fu\%[nction]\|def\)\>', "bW")<CR>
+v  ]"          *@:<C-U>exe "normal! gv"|call search('^\(\s*".*\n\)\@<!\(\s*"\)', "W")<CR>
+n  ]"          *@:call search('^\(\s*".*\n\)\@<!\(\s*"\)', "W")<CR>
+v  ][          *@m':<C-U>exe "normal! gv"|call search('^\s*end\(f\%[unction]\|def\)\>', "W")<CR>
+n  ][          *@m':call search('^\s*end\(f\%[unction]\|def\)\>', "W")<CR>
+v  ]]          *@m':<C-U>exe "normal! gv"|call search('^\s*\(fu\%[nction]\|def\)\>', "W")<CR>
+n  ]]          *@m':call search('^\s*\(fu\%[nction]\|def\)\>', "W")<CR>
+v  <C-X>         "*d
+n  !           * :source %<CR>
+o  %             <Plug>(MatchitOperationForward)
+x  %             <Plug>(MatchitVisualForward)
+n  %             <Plug>(MatchitNormalForward)
+x  J           * 5gj
+n  J           * 5gj
+x  K           * 5gk
+n  K           * 5gk
+n  O           * O<Esc>0"_D
+noxQ             gq
+x  S             <Plug>VSurround
+n  Y           * y$
+o  [%            <Plug>(MatchitOperationMultiBackward)
+x  [%            <Plug>(MatchitVisualMultiBackward)
+n  [%            <Plug>(MatchitNormalMultiBackward)
+   \rwp          <Plug>RestoreWinPosn
+   \swp          <Plug>SaveWinPosn
+o  ]%            <Plug>(MatchitOperationMultiForward)
+x  ]%            <Plug>(MatchitVisualMultiForward)
+n  ]%            <Plug>(MatchitNormalMultiForward)
+x  a%            <Plug>(MatchitVisualTextObject)
+n  cS            <Plug>CSurround
+n  cs            <Plug>Csurround
+n  ds            <Plug>Dsurround
+n  gm          * K
+n  gh          * <C-W>h
+n  gl          * <C-W>l
+n  gk          * <C-W>k
+n  gj          * <C-W>j
+x  gS            <Plug>VgSurround
+n  gn          * :Lex<CR>
+n  g/          * :vimgrep / <C-R>// * .*<CR>
+o  g%            <Plug>(MatchitOperationBackward)
+x  g%            <Plug>(MatchitVisualBackward)
+n  g%            <Plug>(MatchitNormalBackward)
+x  gx            <Plug>NetrwBrowseXVis
+n  gx            <Plug>NetrwBrowseX
+n  j           * gj
+n  o           * o<Esc>0"_D
+n  vv          * ^vg_
+n  ySS           <Plug>YSsurround
+n  ySs           <Plug>YSsurround
+n  yss           <Plug>Yssurround
+n  yS            <Plug>YSurround
+n  ys            <Plug>Ysurround
+n  zk          * mayyP`ak
+   zj          * mayyp`aj
+n  <Plug>RestoreWinPosn   :call RestoreWinPosn()<CR>
+n  <Plug>SaveWinPosn   :call SaveWinPosn()<CR>
+n  <C-W>U      * :call undoquit#RestoreTab()<CR>
+n  <C-W>u      * :call undoquit#RestoreWindow()<CR>
+v  <Plug>VgSurround * :<C-U>call <SNR>36_opfunc(visualmode(),visualmode() ==# 'V' ? 0 : 1)<CR>
+v  <Plug>VSurround * :<C-U>call <SNR>36_opfunc(visualmode(),visualmode() ==# 'V' ? 1 : 0)<CR>
+n  <Plug>YSurround * <SNR>36_opfunc2('setup')
+n  <Plug>Ysurround * <SNR>36_opfunc('setup')
+n  <Plug>YSsurround * <SNR>36_opfunc2('setup').'_'
+n  <Plug>Yssurround * '^'.v:count1.<SNR>36_opfunc('setup').'g_'
+n  <Plug>CSurround * :<C-U>call <SNR>36_changesurround(1)<CR>
+n  <Plug>Csurround * :<C-U>call <SNR>36_changesurround()<CR>
+n  <Plug>Dsurround * :<C-U>call <SNR>36_dosurround(<SNR>36_inputtarget())<CR>
+n  <Plug>SurroundRepeat * .
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+x  <Plug>NetrwBrowseXVis * :<C-U>call netrw#BrowseXVis()<CR>
+n  <Plug>NetrwBrowseX * :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))<CR>
+n  <C-W>vP     * :call winmove#Paste('leftabove vertical')<CR>
+n  <C-W>vp     * :call winmove#Paste('rightbelow vertical')<CR>
+n  <C-W>P      * :call winmove#Paste('leftabove')<CR>
+n  <C-W>p      * :call winmove#Paste('rightbelow')<CR>
+n  <C-W>y      * :call winmove#Yank()<CR>
+n  <C-W>d      * :call winmove#Delete()<CR>
+v  <ce><d8>      "*d
+v  <ce><d7>      "*d
+v  <ce><d5>      "*y
+v  <ce><d4>      "-d"*P
+n  <ce><d4>      "*P
+nv <ce>u         <C-End>
+nv <ce>w         <C-Home>
+
+
+
+
+
+
+
+E492: Not an editor command: HelloWorldCommand-- VISUAL --
+1 change; before #21  5 seconds ago
+1 change; before #21  5 seconds ago
+
+".vimrc" 
+".vimrc" 143L, 2933B written
+".vimrc" 143L, 2933B written
+
+".vimrc" 
+".vimrc" 143L, 2919B written
+".vimrc" 143L, 2919B written-- INSERT --
+-- INSERT --
+-- INSERT --
+
+
+".vimrc" 
+".vimrc" 143L, 2934B written
+".vimrc" 143L, 2934B written
+
+
+
+
+
+
+
+
+
+
+Hello, World!
+
+".vimrc" 
+".vimrc" 142L, 2883B written
+".vimrc" 142L, 2883B written
+
+Hello, World!
+
+"vimrc" [New]
+
+
+".vimrc" 
+".vimrc" 143L, 2934B written
+".vimrc" 143L, 2934B written
+1 line less; before #32  1 second ago
+1 line less; before #32  1 second ago
+1 line less; before #31  1 second ago
+1 line less; before #31  1 second ago
+1 line less; before #30  1 second ago
+1 line less; before #30  1 second ago
+1 line less; before #29  1 second ago
+1 line less; before #29  1 second ago
+1 line less; before #28  3 seconds ago
+1 line less; before #28  3 seconds ago
+
+".vimrc" 
+".vimrc" 143L, 2934B written
+".vimrc" 143L, 2934B written
+
+".vimrc" 
+".vimrc" 142L, 2883B written
+".vimrc" 142L, 2883B written
+
+
+
+
+
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+Hello, World!
+
+".vimrc" 
+".vimrc" 142L, 2883B written
+".vimrc" 142L, 2883B written
+
+Hello, World!
+
+".vimrc" 
+".vimrc" 142L, 2883B written
+".vimrc" 142L, 2883B written
+
+Hello, World!
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   37:
+E185: Cannot find color scheme 'gruvbox'
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 144L, 2951B
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   37:
+E185: Cannot find color scheme 'gruvbox'
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 144L, 2951B
+
+  runtimepath=~/vimfiles,~\vimfiles\plugged\typewriter.vim,~\vimfiles\plugged\vim-surround,~\vimfiles\plugged\undoquit.vim,~\vimfiles\plugged\Decho,~\vimfiles\plugged\vim-plug,~\vimfiles\plugged\vim-colorschemes,~\vimfiles\plugged\awesome-vim-colorschemes,~\vimfiles\plugged\gruvbox,C:\Program Files (x86)\Vim/vimfiles,C:\Program Files (x86)\Vim\vim90,C:\Program Files (x86)\Vim\vim90\pack\dist\opt\matchit,C:\Program Files (x86)\Vim/vimfiles/after,~\vimfiles\plugged\awesome-vim-colorschemes\after,~/vimfiles/after
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   37:
+E185: Cannot find color scheme 'gruvbox'
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 144L, 2951B
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+
+1 change; before #8  2 seconds ago
+1 change; before #8  2 seconds ago
+
+"vimrc" 
+"vimrc" 143L, 2928B written
+"vimrc" 143L, 2928B written
+
+
+
+Error detected while processing QuitPre Autocommands for "*":
+E117: Unknown function: undoquit#SaveWindowQuitHistory
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line   37:
+E185: Cannot find color scheme 'gruvbox'
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 143L, 2928B
+
+"vimrc" 
+"vimrc" 143L, 2916B written
+"vimrc" 143L, 2916B written
+
+
+"vimrc" 
+"vimrc" 143L, 2916B written
+"vimrc" 143L, 2916B written-- VISUAL --
+
+"vimrc" 
+"vimrc" 144L, 2918B written
+"vimrc" 144L, 2918B written
+
+"vimrc" 
+"vimrc" 144L, 2918B written
+"vimrc" 144L, 2918B written
+
+
+"vimrc" 
+"vimrc" 144L, 2918B written
+"vimrc" 144L, 2918B written
+
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 144L, 2918B-- INSERT --
+-- INSERT --
+
+1 change; before #30  2 seconds ago
+1 change; before #30  2 seconds ago-- INSERT --
+
+
+"vimrc" 
+"vimrc" 147L, 2972B written
+"vimrc" 147L, 2972B written
+
+
+
+-- INSERT --
+
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written-- INSERT --
+
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 148L, 2989B-- INSERT --
+
+
+"vimrc" 
+"vimrc" 148L, 3000B written
+"vimrc" 148L, 3000B written-- INSERT --
+
+
+"vimrc" 
+"vimrc" 148L, 3011B written
+"vimrc" 148L, 3011B written
+
+"vimrc" 
+"vimrc" 148L, 3011B written
+"vimrc" 148L, 3011B written
+
+
+
+
+
+C:\Users\Raya/vimfiles,C:\Users\Raya\vimfiles\plugged\vim-surround,C:\Users\Raya\vimfiles\plugged\undoquit.vim,C:\Users\Raya\vimfiles\plugged\Decho,C:\Users\Raya\vimfiles\plugged\vim-plug,C:\Users\Raya\vimfiles\plugged\vim-colorschemes,C:\Users\Raya\vimfiles\plugged\awesome-vim-colorschemes,C:\Users\Raya\vimfiles\plugged\gruvbox,C:\Program Files (x86)\Vim/vimfiles,C:\Program Files (x86)\Vim\vim90,C:\Program Files (x86)\Vim\vim90\pack\dist\opt\matchit,C:\Program Files (x86)\Vim/vimfiles/after,plugin,autoload,plugin/cpp_plugin,autoload/cpp_plugin,C:\Users\Raya\vimfiles\plugged\awesome-vim-colorschemes\after,C:\Users\Raya/vimfiles/after
+"vimrc" 
+"vimrc" 148L, 3011B-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3026B written
+"vimrc" 150L, 3026B written-- INSERT --
+-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3068B written
+"vimrc" 150L, 3068B written
+
+Cannot source a directory: "C:\Users\Raya\vimfiles\autoload\cpp_plugin"
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload\cpp_plugin-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3072B written
+"vimrc" 150L, 3072B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload\cpp_plugin.vim-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3060B written
+"vimrc" 150L, 3060B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload\cpp_plugin.vim
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload\cpp_plugin.vim
+
+"vimrc" 
+"vimrc" 150L, 3045B written
+"vimrc" 150L, 3045B written
+
+Cannot source a directory: "C:\Users\Raya\vimfiles\autoload"
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload
+1 change; before #53  8 seconds ago
+1 change; before #53  8 seconds ago
+
+"vimrc" 
+"vimrc" 150L, 3060B written
+"vimrc" 150L, 3060B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya\vimfiles\autoload\cpp_plugin.vim-- INSERT --
+
+
+"vimrc" 
+"vimrc" 151L, 3062B written
+"vimrc" 151L, 3062B written
+
+"vimrc" 
+"vimrc" 150L, 3060B written
+"vimrc" 150L, 3060B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  150:
+E484: Can't open file C:\Users\Raya/vimfiles/autoload/cpp_plugin.vim
+
+  runtimepath=~/vimfiles,~\vimfiles\plugged\vim-surround,~\vimfiles\plugged\undoquit.vim,~\vimfiles\plugged\Decho,~\vimfiles\plugged\vim-plug,~\vimfiles\plugged\vim-colorschemes,~\vimfiles\plugged\awesome-vim-colorschemes,~\vimfiles\plugged\gruvbox,C:\Program Files (x86)\Vim/vimfiles,C:\Program Files (x86)\Vim\vim90,C:\Program Files (x86)\Vim\vim90\pack\dist\opt\matchit,C:\Program Files (x86)\Vim/vimfiles/after,plugin/cpp_plugin,autoload/cpp_plugin,~\vimfiles\plugged\awesome-vim-colorschemes\after,~/vimfiles/after-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+
+
+
+
+
+
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+
+
+
+
+
+"vimrc" 
+"vimrc" 150L, 3071B
+1 change; before #61  2 seconds ago
+1 change; before #61  2 seconds ago
+
+"vimrc" 
+"vimrc" 151L, 3150B written
+"vimrc" 151L, 3150B written
+
+"vimrc" 
+"vimrc" 151L, 3150B written
+"vimrc" 151L, 3150B written
+
+
+
+
+
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 151L, 3150B
+
+"vimrc" 
+"vimrc" 151L, 3150B written
+"vimrc" 151L, 3150B written
+
+
+
+
+
+
+Messages maintainer: Bram Moolenaar <Bram@vim.org>
+"~\vimfiles\vimrc" 151L, 3150B
+"vimrc" 151L, 3150B written
+      3 more lines
+3 more lines
+
+E37: No write since last change (add ! to override)
+
+"vimrc" 
+"vimrc" 154L, 3263B written
+Error detected while processing C:\Users\Raya\vimfiles\vimrc:
+line  152:
+E492: Not an editor command: Messages maintainer: Bram Moolenaar <Bram@vim.org>
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 154L, 3263B
+
+"vimrc" 
+"vimrc" 151L, 3150B written
+"vimrc" 151L, 3150B written
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 150L, 3071B
+/Bram                                             
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: Bram
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+
+
+
+
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 150L, 3071B
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 150L, 3071B written
+/Bram                                             
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: Bram
+/Bram                                             
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: Bram
+
+"vimrc" 
+"vimrc" 150L, 3071B written
+"vimrc" 
+"vimrc" 150L, 3071B
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 150L, 3071B
+/infe                                             
+
+search hit BOTTOM, continuing at TOP
+/infe                                      W [1/1]
+/infe                                      W [1/1]-- INSERT --
+
+
+"vimrc" 
+"vimrc" 150L, 3069B written
+"vimrc" 150L, 3069B written
+
+"vimrc" 
+"vimrc" 150L, 3069B written
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 150L, 3069B
+
+"NetrwTreeListing" [Not edited] --No lines in buffer--
+netrwGray      xxx cleared
+netrwGray      xxx guifg=gray30
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.h$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.c$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.cpp$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.o$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.obj$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.info$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.swp$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.bak$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \~$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Error detected while processing function netrw#Explore[221]..netrw#LocalBrowseCheck[26]..<SNR>48_NetrwBrowse[252]..<SNR>48_PerformListing[239]..<SNR>48_NetrwWideListing:
+line   75:
+E31: No such mapping
+Error detected while processing function netrw#Explore[221]..netrw#LocalBrowseCheck[26]..<SNR>48_NetrwBrowse[252]..<SNR>48_PerformListing[239]..<SNR>48_NetrwWideListing:
+line   78:
+E31: No such mapping
+Pattern not found: @$
+ 
+TextChanged
+
+
+netrwGray      xxx guifg=gray30
+23 fewer lines
+netrwGray      xxx guifg=gray30
+netrwGray      xxx guifg=gray30
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.h$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.c$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.cpp$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.o$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.obj$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.info$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.swp$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \.bak$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Pattern not found: \~$
+Pattern not found: ^\d\{3}ÿ\d\{3}\/
+Error detected while processing function netrw#LocalBrowseCheck[26]..<SNR>48_NetrwBrowse[252]..<SNR>48_PerformListing[239]..<SNR>48_NetrwWideListing:
+line   75:
+E31: No such mapping
+Error detected while processing function netrw#LocalBrowseCheck[26]..<SNR>48_NetrwBrowse[252]..<SNR>48_PerformListing[239]..<SNR>48_NetrwWideListing:
+line   78:
+E31: No such mapping
+Pattern not found: @$
+TextChanged
+
+
+
+                            oooo$$$$$$$$$$$$oooo
+                        oo$$$$$$$$$$$$$$$$$$$$$$$$o
+                     oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o         o$   $$ o$
+     o $ oo        o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o       $$ $$ $$o$
+  oo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$
+  "$$$$$$o$     o$$$$$$$$$      $$$$$$$$$$$      $$$$$$$$$$o    $$$$$$$$
+    $$$$$$$    $$$$$$$$$$$      $$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$$
+    $$$$$$$$$$$$$$$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$$$$$$  """$$$
+     "$$$""""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     "$$$
+      $$$   o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     "$$$o
+     o$$"   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$       $$$o
+     $$$    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" "$$$$$$ooooo$$$$o
+    o$$$oooo$$$$$  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   o$$$$$$$$$$$$$$$$$
+    $$$$$$$$"$$$$   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     $$$$""""""""
+   """"       $$$$    "$$$$$$$$$$$$$$$$$$$$$$$$$$$$"      o$$$
+              "$$$o     """$$$$$$$$$$$$$$$$$$"$$"         $$$
+                $$$o          "$$""$$$$$$""""           o$$$
+                 $$$$o                                o$$$"
+                  "$$$$o      o$$$$$$o"$$$$o        o$$$$
+                    "$$$$$oo     ""$$$$o$$$$$o   o$$$$""
+                       ""$$$$$oooo  "$$$o$$$$$$$$$"""
+                          ""$$$$$$$oo $$$$$$$$$$
+                                  """"$$$$$$$$$$$
+                                      $$$$$$$$$$$$
+                                       $$$$$$$$$$"
+                                        "$$$""""
+
+".netrwhist" [Not edited] --No lines in buffer--
+".netrwhist" 12L, 570B written
+"vimrc" 
+"vimrc" 150L, 3069B
+"vimrc" 
+"vimrc" 150L, 3069B
+
+"vimrc" 
+"vimrc" 150L, 3069B written
+"vimrc" 150L, 3069B written
+"vimrc" 
+"vimrc" 150L, 3069B-- INSERT --
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 150L, 3070B written
+"vimrc" 150L, 3070B written
+TextChanged
+TextChanged
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+
+"?" [New]
+
+"vimrc" 
+"vimrc" 148L, 2989B
+
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 148L, 2989B-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2987B written
+"vimrc" 148L, 2987B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2992B written
+"vimrc" 148L, 2992B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2989B written
+"vimrc" 148L, 2989B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2990B written
+"vimrc" 148L, 2990B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2987B written
+"vimrc" 148L, 2987B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2988B written
+"vimrc" 148L, 2988B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2987B written
+"vimrc" 148L, 2987B written
+
+TextChanged-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3010B written
+"vimrc" 149L, 3010B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3012B written
+"vimrc" 149L, 3012B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+
+
+
+"vimrc" 
+"vimrc" 149L, 3007B written
+"vimrc" 149L, 3007B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3008B written
+"vimrc" 149L, 3008B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3011B written
+"vimrc" 149L, 3011B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3009B written
+"vimrc" 149L, 3009B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3012B written
+"vimrc" 149L, 3012B written
+
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3011B written
+"vimrc" 149L, 3011B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3013B written
+"vimrc" 149L, 3013B written
+
+Error detected while processing C:\Users\Raya\vimfiles\vimrc[3]..C:\Program Files (x86)\Vim\vim90\syntax\syntax.vim[19]..C:\Program Files (x86)\Vim\vim90\syntax\synload.vim:
+line   19:
+E185: Cannot find color scheme 'DimGreenBG'
+
+"vimrc" 
+"vimrc" 149L, 3013B written
+"vimrc" 149L, 3013B written
+
+
+
+
+"vimrc" 
+"vimrc" 149L, 3013B written
+"vimrc" 149L, 3013B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3008B written
+"vimrc" 149L, 3008B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3009B written
+"vimrc" 149L, 3009B written
+-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 149L, 3013B written
+"vimrc" 149L, 3013B written
+
+
+"vimrc" 
+"vimrc" 149L, 3013B written
+"vimrc" 149L, 3013B written
+TextChanged
+
+"vimrc" 
+"vimrc" 148L, 2992B written
+"vimrc" 148L, 2992B written
+"~\vimfiles\vimrc" 
+"~\vimfiles\vimrc" 148L, 2992B
+TextChanged
+TextChanged-- INSERT --
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 151L, 3094B written
+"vimrc" 151L, 3094B written
+
+"vimrc" 
+"vimrc" 151L, 3094B written
+"vimrc" 151L, 3094B written
+
+"options.txt" 
+"options.txt" [readonly][unix] 9362L, 406131B
+
+/tabstop                                          
+
+search hit BOTTOM, continuing at TOP
+/tabstop                                   W [1/2]
+/tabstop                                   W [1/2]
+/tabstop                                          
+
+/tabstop                                     [2/2]
+/tabstop                                     [2/2]
+TextChanged
+
+"vimrc" 
+"vimrc" 151L, 3094B written
+"vimrc" 151L, 3094B written
+/shift                                            
+
+search hit BOTTOM, continuing at TOP
+/shift                                     W [1/1]
+/shift                                     W [1/1]
+TextChanged
+
+"vimrc" 
+"vimrc" 151L, 3094B written
+"vimrc" 151L, 3094B written
+/expand                                           
+
+search hit BOTTOM, continuing at TOP
+/expand                                    W [1/1]
+/expand                                    W [1/1]
+
+"vimrc" 
+"vimrc" 151L, 3094B written
+"vimrc" 151L, 3094B written
+/cursorline                                       
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: cursorline
+TextChanged-- INSERT --
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 153L, 3112B written
+"vimrc" 153L, 3112B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 153L, 3137B written
+"vimrc" 153L, 3137B written
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 154L, 3181B written
+"vimrc" 154L, 3181B written-- VISUAL LINE --
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+
+TextChanged
+1 change; before #115  1 second ago
+TextChanged
+1 change; before #115  1 second ago-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"vimrc" 
+"vimrc" 158L, 3377B written
+"vimrc" 158L, 3377B written
+TextChanged
+1 change; before #117  10 seconds ago
+TextChanged
+1 change; before #117  10 seconds ago
+1 change; before #116  18 seconds ago
+TextChanged
+1 change; before #116  18 seconds ago
+1 change; before #114  28 seconds ago
+TextChanged
+1 change; before #114  28 seconds ago
+2 fewer lines; before #113  35 seconds ago
+TextChanged
+2 fewer lines; before #113  35 seconds ago
+2 fewer lines; before #112  37 seconds ago
+TextChanged
+2 fewer lines; before #112  37 seconds ago-- VISUAL LINE --
+TextChanged
+TextChanged
+
+"vimrc" 
+"vimrc" 158L, 3381B written
+"vimrc" 158L, 3381B written-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged
+TextChanged
+
+"vimrc" 
+"vimrc" 158L, 3377B written
+"vimrc" 158L, 3377B written
+
+"vimrc" 
+"vimrc" 158L, 3377B written
+"vimrc" 158L, 3377B written

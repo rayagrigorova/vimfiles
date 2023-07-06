@@ -1,0 +1,1052 @@
+
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<iles\ftplugin\cpp\cpp_plugin.vim" [unix] 18L, 487B
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 485B written
+"cpp_plugin.vim" [unix] 18L, 485B written
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<iles\ftplugin\cpp\cpp_plugin.vim" [unix] 18L, 485B
+TextChanged
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 485B written
+"cpp_plugin.vim" [unix] 18L, 485B written-- VISUAL ---- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 486B written
+"cpp_plugin.vim" [unix] 18L, 486B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 486B written
+"cpp_plugin.vim" [unix] 18L, 486B written
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<iles\ftplugin\cpp\cpp_plugin.vim" [unix] 18L, 492B
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<iles\ftplugin\cpp\cpp_plugin.vim" [unix] 18L, 486B-- VISUAL ---- INSERT --
+TextChanged
+
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 19L, 570B written
+"cpp_plugin.vim" [unix] 19L, 570B written
+1 line less; before #10  31 seconds ago
+TextChanged
+1 line less; before #10  31 seconds ago
+1 change; before #9  33 seconds ago
+TextChanged
+1 change; before #9  33 seconds ago
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 486B written
+"cpp_plugin.vim" [unix] 18L, 486B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 492B written
+"cpp_plugin.vim" [unix] 18L, 492B written
+
+"?" [New]
+
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<iles\ftplugin\cpp\cpp_plugin.vim" [unix] 18L, 492B-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 18L, 494B written
+"cpp_plugin.vim" [unix] 18L, 494B written
+TextChanged
+2 fewer lines; before #13  1 second ago
+TextChanged
+2 fewer lines; before #13  1 second ago
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 21L, 575B written
+"cpp_plugin.vim" [unix] 21L, 575B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 21L, 766B written
+"cpp_plugin.vim" [unix] 21L, 766B written-- INSERT --
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 22L, 767B written
+"cpp_plugin.vim" [unix] 22L, 767B written-- VISUAL LINE --
+
+12 substitutions on 1 line
+TextChanged
+12 substitutions on 1 line
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 22L, 743B written
+"cpp_plugin.vim" [unix] 22L, 743B written
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 23L, 762B written
+"cpp_plugin.vim" [unix] 23L, 762B written
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 24L, 1126B written
+"cpp_plugin.vim" [unix] 24L, 1126B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 24L, 1125B written
+"cpp_plugin.vim" [unix] 24L, 1125B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 25L, 1275B written
+"cpp_plugin.vim" [unix] 25L, 1275B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 26L, 1282B written
+"cpp_plugin.vim" [unix] 26L, 1282B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 26L, 1487B written
+"cpp_plugin.vim" [unix] 26L, 1487B written
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 26L, 1487B written
+"cpp_plugin.vim" [unix] 26L, 1487B written
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 27L, 1488B written
+"cpp_plugin.vim" [unix] 27L, 1488B written-- VISUAL LINE --
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 28L, 1606B written
+"cpp_plugin.vim" [unix] 28L, 1606B written
+/len                                                                                              
+
+search hit BOTTOM, continuing at TOP
+/len                                                                                       W [1/4]
+/len                                                                                       W [1/4]-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 28L, 1604B written
+"cpp_plugin.vim" [unix] 28L, 1604B written
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 28L, 1602B written
+"cpp_plugin.vim" [unix] 28L, 1602B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 28L, 1602B written
+"cpp_plugin.vim" [unix] 28L, 1602B written
+TextChanged
+TextChanged-- INSERT --
+TextChanged-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+1 change; before #47  3 seconds ago
+TextChanged
+1 change; before #47  3 seconds ago-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 30L, 1652B written
+"cpp_plugin.vim" [unix] 30L, 1652B written-- VISUAL LINE ---- VISUAL --
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<les\ftplugin\cpp\cpp_plugin.vim" [unix] 30L, 1652B
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 1915B written
+"cpp_plugin.vim" [unix] 31L, 1915B written
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 1920B written
+"cpp_plugin.vim" [unix] 32L, 1920B written
+TextChanged
+TextChanged
+TextChanged-- INSERT ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 2299B written
+"cpp_plugin.vim" [unix] 32L, 2299B written-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+1 change; before #60  2 seconds ago
+TextChanged
+1 change; before #60  2 seconds ago-- VISUAL LINE --
+
+28 substitutions on 2 lines
+TextChanged
+28 substitutions on 2 lines
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 2243B written
+"cpp_plugin.vim" [unix] 32L, 2243B written
+TextChanged
+TextChanged
+TextChanged-- VISUAL LINE --
+11 lines to indent... 
+12 lines indented 
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 2257B written
+"cpp_plugin.vim" [unix] 32L, 2257B written
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 2256B written
+"cpp_plugin.vim" [unix] 32L, 2256B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2255B written
+"cpp_plugin.vim" [unix] 31L, 2255B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2255B written
+"cpp_plugin.vim" [unix] 31L, 2255B written
+?s                                                                                                
+
+?s                                                                                          [8/81]
+?s                                                                                          [8/81]
+?hello                                                                                            
+
+search hit TOP, continuing at BOTTOM
+E486: Pattern not found: hello
+?hello                                                                                            
+
+search hit TOP, continuing at BOTTOM
+E486: Pattern not found: hello-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2256B written
+"cpp_plugin.vim" [unix] 31L, 2256B written-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2257B written
+"cpp_plugin.vim" [unix] 31L, 2257B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2257B written
+"cpp_plugin.vim" [unix] 31L, 2257B written-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged
+TextChanged
+1 more line; before #75  1 second ago
+TextChanged
+1 more line; before #75  1 second ago
+TextChanged-- INSERT --
+TextChanged
+-- INSERT --
+TextChanged
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2263B written
+"cpp_plugin.vim" [unix] 31L, 2263B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2262B written
+"cpp_plugin.vim" [unix] 31L, 2262B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2262B written
+"cpp_plugin.vim" [unix] 31L, 2262B written-- VISUAL LINE --
+11 lines yanked-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2254B written
+"cpp_plugin.vim" [unix] 31L, 2254B written-- VISUAL LINE --
+10 lines to indent... 
+11 lines indented 
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<les\ftplugin\cpp\cpp_plugin.vim" [unix] 31L, 2216B
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<les\ftplugin\cpp\cpp_plugin.vim" [unix] 31L, 2216B-- VISUAL LINE ---- VISUAL LINE --
+11 lines yanked-- INSERT --
+-- INSERT --
+-- INSERT --
+-- INSERT --
+
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written-- VISUAL BLOCK ---- VISUAL LINE ---- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+1 change; before #90  2 seconds ago
+TextChanged
+1 change; before #90  2 seconds ago-- VISUAL BLOCK ---- VISUAL LINE ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+1 change; before #91  2 seconds ago
+TextChanged
+1 change; before #91  2 seconds ago-- VISUAL BLOCK ---- VISUAL LINE ---- VISUAL BLOCK ---- VISUAL LINE ---- VISUAL BLOCK ---- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+10 changes; before #92  5 seconds ago
+TextChanged
+10 changes; before #92  5 seconds ago-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged
+1 change; before #100  1 second ago
+TextChanged
+1 change; before #100  1 second ago
+1 change; before #99  1 second ago
+TextChanged
+1 change; before #99  1 second ago
+1 change; before #98  2 seconds ago
+TextChanged
+1 change; before #98  2 seconds ago
+1 change; before #97  2 seconds ago
+TextChanged
+1 change; before #97  2 seconds ago
+1 change; before #96  3 seconds ago
+TextChanged
+1 change; before #96  3 seconds ago
+1 change; before #95  3 seconds ago
+TextChanged
+1 change; before #95  3 seconds ago
+1 change; before #94  3 seconds ago
+TextChanged
+1 change; before #94  3 seconds ago
+1 change; before #93  9 seconds ago
+TextChanged
+1 change; before #93  9 seconds ago-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged-- INSERT --
+
+TextChanged
+1 change; before #105  1 second ago
+TextChanged
+1 change; before #105  1 second ago
+1 change; before #104  3 seconds ago
+TextChanged
+1 change; before #104  3 seconds ago
+1 change; before #103  4 seconds ago
+TextChanged
+1 change; before #103  4 seconds ago
+1 change; before #102  6 seconds ago
+TextChanged
+1 change; before #102  6 seconds ago
+1 change; before #101  7 seconds ago
+TextChanged
+1 change; before #101  7 seconds ago-- VISUAL LINE --
+11 fewer lines
+TextChanged
+11 fewer lines
+9 more lines
+TextChanged
+9 more lines-- INSERT --
+TextChanged-- INSERT --
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2214B written
+"cpp_plugin.vim" [unix] 31L, 2214B written-- VISUAL ---- INSERT --
+TextChanged
+-- VISUAL ---- VISUAL LINE --
+10 lines to indent... 
+11 lines indented 
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written-- VISUAL LINE ---- VISUAL LINE --
+31 lines yanked-- VISUAL LINE ---- VISUAL LINE --
+11 fewer lines
+TextChanged
+11 fewer lines
+TextChanged
+TextChanged
+1 line less; before #112  2 seconds ago
+TextChanged
+1 line less; before #112  2 seconds ago
+1 line less; before #111  2 seconds ago
+TextChanged
+1 line less; before #111  2 seconds ago
+TextChanged
+TextChanged
+11 more lines
+TextChanged
+11 more lines
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2216B written
+"cpp_plugin.vim" [unix] 31L, 2216B written-- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE ---- VISUAL LINE --
+31 lines yanked-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2223B written
+"cpp_plugin.vim" [unix] 31L, 2223B written
+TextChanged
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2217B written
+"cpp_plugin.vim" [unix] 31L, 2217B written-- VISUAL ---- VISUAL LINE --
+11 fewer lines
+TextChanged
+11 fewer lines
+9 more lines
+TextChanged
+9 more lines-- INSERT --
+TextChanged
+TextChanged
+
+TextChanged
+1 change; before #124  1 second ago
+TextChanged
+1 change; before #124  1 second ago-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2234B written
+"cpp_plugin.vim" [unix] 31L, 2234B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2234B written
+"cpp_plugin.vim" [unix] 31L, 2234B written
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+
+E486: Pattern not found: \\t
+
+E486: Pattern not found: \\t
+
+E486: Pattern not found: \\t
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2281B written
+"cpp_plugin.vim" [unix] 33L, 2281B written
+TextChanged
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2289B written
+"cpp_plugin.vim" [unix] 33L, 2289B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2289B written
+"cpp_plugin.vim" [unix] 33L, 2289B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 32L, 2288B written
+"cpp_plugin.vim" [unix] 32L, 2288B written
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 33L, 2331B written
+"cpp_plugin.vim" [unix] 33L, 2331B written
+TextChanged
+TextChanged
+
+E492: Not an editor command: W
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 31L, 2261B written
+"cpp_plugin.vim" [unix] 31L, 2261B written-- VISUAL LINE --
+3 fewer lines
+TextChanged
+3 fewer lines
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 27L, 2149B written
+"cpp_plugin.vim" [unix] 27L, 2149B written
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<les\ftplugin\cpp\cpp_plugin.vim" [unix] 29L, 2224B-- INSERT --
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 29L, 2225B written
+"cpp_plugin.vim" [unix] 29L, 2225B written
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 29L, 2225B written
+"cpp_plugin.vim" [unix] 29L, 2225B written
+"cpp.vim" [New]
+TextChanged
+
+"cpp.vim" 
+"cpp.vim" [New] 3L, 63B written
+"cpp.vim" [New] 3L, 63B written
+TextChanged
+TextChanged
+1 line less; before #3  1 second ago
+TextChanged
+1 line less; before #3  1 second ago
+1 line less; before #2  2 seconds ago
+TextChanged
+1 line less; before #2  2 seconds ago-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+TextChanged
+
+"cpp.vim" 
+"cpp.vim" 3L, 120B written
+"cpp.vim" 3L, 120B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp.vim" 
+"cpp.vim" 3L, 155B written
+"cpp.vim" 3L, 155B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp.vim" 
+"cpp.vim" 3L, 181B written
+"cpp.vim" 3L, 181B written
+
+C:\Users\Raya\vimfiles\ftplugin
+"cpp.vim" 
+"cpp.vim" 3L, 181B
+
+"cpp.vim" 
+"cpp.vim" 3L, 181B written
+"cpp.vim" 3L, 181B written
+
+"cpp.vim" 
+"cpp.vim" 3L, 181B written
+"~\vimfiles\ftplugin\cpp\cpp.vim" 
+"~\vimfiles\ftplugin\cpp\cpp.vim" 3L, 181B
+"~\vimfiles\ftplugin\cpp\cpp_plugin.vim" 
+<les\ftplugin\cpp\cpp_plugin.vim" [unix] 29L, 2225B
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged-- INSERT --
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 30L, 2283B written
+"cpp_plugin.vim" [unix] 30L, 2283B written-- INSERT --
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+TextChanged
+
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 30L, 2286B written
+"cpp_plugin.vim" [unix] 30L, 2286B written
+TextChanged
+
+"cpp_plugin.vim" 
+"cpp_plugin.vim" [unix] 30L, 2286B written
+"cpp_plugin.vim" [unix] 30L, 2286B written
