@@ -1,3 +1,1 @@
-# vim-fmi-vimfiles
-
-Vim files
+My vimfiles folder
